@@ -7,7 +7,7 @@ contract HelloEthSalon {
     // constructor
   }
 
-  function GetMessage() return (string) {
+  function GetMessage() returns (string) {
     return message;
   }
 
