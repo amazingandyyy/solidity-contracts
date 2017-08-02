@@ -1,4 +1,4 @@
-pragma solidity ^0.4.4;
+pragma solidity ^0.4.13;
 
 contract HelloEthSalon {
   string message = 'Hello Ethereum Salon!';
@@ -6,9 +6,8 @@ contract HelloEthSalon {
   function HelloEthSalon() {
     // constructor
   }
-
   function GetMessage() returns (string) {
     return message;
   }
-
+  
 }
