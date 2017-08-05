@@ -6,7 +6,6 @@ contract('HelloEthSalon:GetMessage', function(accounts) {
     hello_eth_salon.then(function(contract){
       return contract.GetMessage.call();
     }).then(function(result){
-      cosnole.log(result)
       assert.isTrue(result === 'Hello Ethereum Salon!');
       done();
     })
