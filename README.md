@@ -7,8 +7,7 @@
 - 04 deploy with EtherWallet
 - 05 deploy to live network with truffle
 - 06 How to ICO
-
-[more](https://github.com/amazingandyyy/complete-ethereum-smart-contract-tutorials/issues/1)
+- [more](https://github.com/amazingandyyy/complete-ethereum-smart-contract-tutorials/issues/1)
 
 ### Author
 Amazingandyyy
