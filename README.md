@@ -10,7 +10,7 @@
 - [more](https://github.com/amazingandyyy/complete-ethereum-smart-contract-tutorials/issues/1)
 
 ### Author
-Amazingandyyy
+[Andy Chen (Amazingandyyy)](https://github.com/amazingandyyy)
 
 
 All copyright reserved at this point.
