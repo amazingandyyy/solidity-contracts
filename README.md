@@ -10,6 +10,7 @@
 - 07 ICO contract development
 - 08 Crowdsale with openzeppelin framework
 - 09 Verify your ICO contract
+- 10 Update your ICO and Token information on etherscan
 - [more](https://github.com/amazingandyyy/complete-ethereum-smart-contract-tutorials/issues/1)
 
 ### Author
