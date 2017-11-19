@@ -15,9 +15,9 @@
     - build a function that return a string
     - make sure smart contract compiled 
   - debugs
-    - semicolon matters in solidity
+    - semicolon(;) matters in solidity
     - `returns`(instead return) in solidity
-    - return type required parentheses
+    - return type required parentheses(())
   - A typical function will be looked like
   ```javascript
   string message = "Hello Ethereum Salon!";
@@ -28,4 +28,4 @@
 
 ## Have questions?
 - open an [issue](https://github.com/amazingandyyy/the-good-ethereum-smart-contract-tutorial/issues)
-- comment on [medium]()https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119
+- comment on [medium](https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119)
