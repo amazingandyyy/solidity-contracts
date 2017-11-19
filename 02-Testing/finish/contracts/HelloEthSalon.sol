@@ -1,7 +1,7 @@
 pragma solidity ^0.4.4;
 
 contract HelloEthSalon {
-  string message = "Hello Ethereum Salon!";
+  string message = "I know smart contract testing!!";
   
   function HelloEthSalon() {
     // constructor
