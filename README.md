@@ -1,4 +1,4 @@
-# The Good Ethereum Smart Contract Tutorial
+# The Complete Ethereum Blockchain development Tutorials (Draft)
 
 ### Content and links
 - 01 HelloWorld -> [medium post](https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119)
